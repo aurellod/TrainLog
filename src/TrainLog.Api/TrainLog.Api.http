@@ -1,0 +1,6 @@
+@TrainLog.Api_HostAddress = http://localhost:5248
+
+GET {{TrainLog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
